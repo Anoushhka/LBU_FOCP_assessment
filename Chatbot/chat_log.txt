@@ -1,0 +1,197 @@
+[2025-01-15 12:43:59] You: coffee
+[2025-01-15 12:43:59] Taylor: The campus coffee shop is open from 8 AM to 6 PM, anouskha. Don't miss the caramel latte!
+[2025-01-15 12:45:56] You: I am feeling great today!
+
+[2025-01-15 12:45:56] Alex: You seem excited, ansu! Tell me more!
+[2025-01-15 12:46:37] You: I am so sad and tired.
+[2025-01-15 12:46:37] Alex: Could you clarify, kiki?
+[2025-01-15 12:47:58] You: I am so sad and tired.
+[2025-01-15 12:47:58] Avery: Could you clarify, kristy?
+[2025-01-15 12:51:08] You: I am feeling great today!
+[2025-01-15 12:51:08] Jamie: You seem excited, ranju! Tell me more!
+[2025-01-15 12:51:32] You: I am so sad and tired.
+[2025-01-15 12:51:32] Jamie: Hmm, I’ll need to check on that, ranju.
+[2025-01-15 12:51:53] You: What are the library hours?
+[2025-01-15 12:51:53] Jamie: The library is open 24/7 for students, ranju. Remember to bring your ID for access.
+[2025-01-15 12:52:19] You: What is the capital of France?
+[2025-01-15 12:52:19] Jamie: Hmm, I’ll need to check on that, ranju.
+[2025-01-15 12:58:05] You: What is the capital of France?
+[2025-01-15 12:58:05] Avery: I’m not sure about that, jessy. Can you ask something else?
+[2025-01-15 13:02:41] You: What is the capital of France?
+[2025-01-15 13:02:41] Avery: That's an interesting question, kisty. Let me think about it!
+[2025-01-15 13:02:54] You: i am sad
+[2025-01-15 13:02:54] Avery: Hmm, Ill need to check on that, kisty.
+[2025-01-15 13:03:05] You: i feel great today
+[2025-01-15 13:03:05] Avery: You seem excited, kisty! Tell me more!
+[2025-01-15 13:06:28] You: coffee
+[2025-01-15 13:06:28] Alex: The campus coffee shop is open from 8 AM to 6 PM, sandy. Don't miss the caramel latte!
+[2025-01-15 13:06:55] You: what about parking?
+[2025-01-15 13:06:55] Alex: Parking spaces are available for students near the east gate, sandy. You'll need a parking permit.
+[2025-01-15 13:07:18] You: what is the captial of france?
+[2025-01-15 13:07:18] Alex: That's an interesting question, sandy. Let me think about it!
+[2025-01-15 13:07:34] You: i am feeling great today
+[2025-01-15 13:07:34] Alex: You seem excited, sandy! Tell me more!
+[2025-01-15 13:15:48] You: tell me about books
+[2025-01-15 13:15:48] Jordan: Hmm, I'll need to check on that, ranju.
+[2025-01-15 13:15:59] You: tell me about new topic
+[2025-01-15 13:15:59] Jordan: I'm not sure about that, ranju. Can you ask something else?
+[2025-01-15 13:16:22] You: Tell me about new topic.
+
+[2025-01-15 13:16:22] Riley: Could you clarify, kk?
+[2025-01-15 13:18:53] You: where is library
+[2025-01-15 13:18:53] Jamie: The library is open 24/7 for students, riley. Remember to bring your ID for access.
+[2025-01-15 13:25:36] You: i am feeling great!
+[2025-01-15 13:25:36] Riley: Hmm, I'll need to check on that, tiaa.
+[2025-01-15 13:25:47] You: i am feeling great
+[2025-01-15 13:25:47] Riley: I'm not sure about that, tiaa. Can you ask something else?
+[2025-01-15 13:25:56] You: where is library
+[2025-01-15 13:25:56] Riley: The library is open 24/7 for students, tiaa. Remember to bring your ID for access.
+[2025-01-15 13:30:23] You: where is coffee
+[2025-01-15 13:30:23] Casey: The campus coffee shop is open from 8 AM to 6 PM, yuna. Don't miss the caramel latte!
+[2025-01-15 13:30:41] You: i am feeling great today!
+[2025-01-15 13:30:41] Casey: Hmm, I'll need to check on that, yuna.
+[2025-01-15 13:31:00] You: what is the capital of france?
+[2025-01-15 13:31:00] Casey: Hmm, I'll need to check on that, yuna.
+[2025-01-15 13:31:35] You: bye
+[2025-01-15 13:31:35] Casey: Thank you for chatting, yuna! Have a great day!
+[2025-01-15 13:31:36] You: bye
+[2025-01-15 13:31:36] Casey: Thank you for chatting, yuna! Have a great day!
+[2025-01-15 13:43:12] You: how are you
+[2025-01-15 13:43:12] Morgan: I'm not sure about that, tiaa. Can you ask something else?
+[2025-01-15 13:43:17] You: coffee
+[2025-01-15 13:43:17] Morgan: The campus coffee shop is open from 8 AM to 6 PM, tiaa. Don't miss the caramel latte!
+[2025-01-15 13:43:26] You: i am feeling great today
+[2025-01-15 13:43:26] Morgan: You seem really happy, tiaa! Keep up the good vibes!
+[2025-01-15 13:43:34] You: i am feeling sad
+[2025-01-15 13:43:34] Morgan: I'm not sure about that, tiaa. Can you ask something else?
+[2025-01-15 13:43:46] You: what is capital of nepal?
+[2025-01-15 13:43:46] Morgan: That's an interesting question, tiaa. Let me think about it!
+[2025-01-15 13:43:56] You: exit
+[2025-01-15 13:43:56] Morgan: Thank you for chatting, tiaa! Have a great day!
+[2025-01-15 14:09:17] You: "admissions"
+[2025-01-15 14:09:17] Jamie: Did you mean 'admissions'? Admissions are open from Monday to Friday, tiaa. Visit our website for more details.
+[2025-01-15 14:09:21] You: admissions
+[2025-01-15 14:09:21] Jamie: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 14:09:24] You: library
+[2025-01-15 14:09:24] Jamie: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 14:09:26] You: sports
+[2025-01-15 14:09:26] Jamie: Our sports center offers yoga, swimming, and gym facilities. It's open from 6 AM to 10 PM.
+[2025-01-15 14:09:29] You: events
+[2025-01-15 14:09:29] Jamie: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 14:09:31] You: parking
+[2025-01-15 14:09:31] Jamie: Parking is available near the east gate. A valid parking permit is required.
+[2025-01-15 14:09:32] You: scholarship
+[2025-01-15 14:09:32] Jamie: Scholarship applications are open until March 15. Good luck!
+[2025-01-15 14:09:46] You: admissions
+[2025-01-15 14:09:46] Jamie: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 14:09:48] You: library
+[2025-01-15 14:09:48] Jamie: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 14:09:49] You: events
+[2025-01-15 14:09:49] Jamie: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 14:09:50] You: sports
+[2025-01-15 14:09:50] Jamie: Oops! It seems we've been disconnected. Please try again later.
+[2025-01-15 14:09:50] You: parking
+[2025-01-15 14:09:50] Jamie: Oops! It seems we've been disconnected. Please try again later.
+[2025-01-15 14:09:51] You: scholarship
+[2025-01-15 14:09:51] Jamie: Scholarship applications are open until March 15. Good luck!
+[2025-01-15 14:10:45] You: cafeteria
+[2025-01-15 14:10:45] Jordan: Hmm, I'll need to check on that, tiaa.
+[2025-01-15 14:11:03] You: "cafeteria"
+[2025-01-15 14:11:03] Taylor: Hmm, I'll need to check on that, t.
+[2025-01-15 14:37:29] You: hi 
+[2025-01-15 14:37:29] Casey: Hello, ranju! How can I brighten your day?
+[2025-01-15 14:37:42] You: i am feeling sad
+[2025-01-15 14:37:42] Casey: Could you clarify, ranju?
+[2025-01-15 14:37:50] You: i am feeling great
+[2025-01-15 14:37:50] Casey: You seem really happy, ranju! Keep up the good vibes!
+[2025-01-15 14:38:05] You: what is the capital of spain?
+[2025-01-15 14:38:05] Casey: I'm not sure about that, ranju. Can you ask something else?
+[2025-01-15 14:38:08] You: admissions
+[2025-01-15 14:38:08] Casey: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 14:38:14] You: library
+[2025-01-15 14:38:14] Casey: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 14:38:17] You: scholarship
+[2025-01-15 14:38:17] Casey: Scholarship applications are open until March 15. Good luck!
+[2025-01-15 14:38:19] You: events
+[2025-01-15 14:38:19] Casey: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 14:38:21] You: sports
+[2025-01-15 14:38:21] Casey: Our sports center offers yoga, swimming, and gym facilities. It's open from 6 AM to 10 PM.
+[2025-01-15 14:38:22] You: parking
+[2025-01-15 14:38:22] Casey: Parking is available near the east gate. A valid parking permit is required.
+[2025-01-15 14:38:55] You: sad
+[2025-01-15 14:38:55] Casey: Hmm, I'll need to check on that, ranju.
+[2025-01-15 14:39:00] You: happy
+[2025-01-15 14:39:00] Casey: You seem really happy, ranju! Keep up the good vibes!
+[2025-01-15 14:39:12] You: sporty
+[2025-01-15 14:39:12] Casey: Did you mean 'sports'? Our sports center offers yoga, swimming, and gym facilities, ranju. It's open from 6 AM to 10 PM.
+[2025-01-15 14:39:25] You: eventy
+[2025-01-15 14:39:25] Casey: Did you mean 'events'? Our next campus event is the Spring Fest on April 10th, ranju. Don't forget to join the fun!
+[2025-01-15 14:39:51] You: bye
+[2025-01-15 14:39:51] Casey: Thank you for chatting, ranju! Have a great day!
+[2025-01-15 14:39:51] Casey: Was my assistance helpful today, ranju? Reply with Yes or No.
+[2025-01-15 14:40:05] You: yes
+[2025-01-15 14:40:05] Casey: Thank you for your feedback, ranju! Have a wonderful day!
+[2025-01-15 14:42:40] You: hii
+[2025-01-15 14:42:40] Casey: Hello, tiaa! How can I brighten your day?
+[2025-01-15 14:42:49] You: admissions
+[2025-01-15 14:42:49] Casey: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 14:42:51] You: library
+[2025-01-15 14:42:51] Casey: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 14:42:52] You: sports
+[2025-01-15 14:42:52] Casey: Our sports center offers yoga, swimming, and gym facilities. It's open from 6 AM to 10 PM.
+[2025-01-15 14:42:57] You: sporty
+[2025-01-15 14:42:57] Casey: Did you mean 'sports'? Our sports center offers yoga, swimming, and gym facilities, tiaa. It's open from 6 AM to 10 PM.
+[2025-01-15 14:43:11] You: great
+[2025-01-15 14:43:11] Casey: You seem really happy, tiaa! Keep up the good vibes!
+[2025-01-15 14:43:28] You: capital 
+[2025-01-15 14:43:28] Casey: I'm not sure about that, tiaa. Can you ask something else?
+[2025-01-15 22:05:51] You: cofee
+[2025-01-15 22:05:51] Alex: Did you mean 'coffee'? The campus coffee shop is open from 8 AM to 6 PM, anouskha. Don't miss the caramel latte!
+[2025-01-15 22:06:00] You: library
+[2025-01-15 22:06:00] Alex: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 22:06:05] You: admissions
+[2025-01-15 22:06:05] Alex: Oops! It seems we've been disconnected. Please try again later.
+[2025-01-15 22:06:06] You: scholarship
+[2025-01-15 22:06:06] Alex: Scholarship applications are open until March 15. Good luck!
+[2025-01-15 22:06:07] You: library
+[2025-01-15 22:06:07] Alex: The library is open 24/7 for students. Remember to bring your ID.
+[2025-01-15 22:07:35] You: what is the library hour?
+[2025-01-15 22:07:35] Jamie: That's an interesting question, tiaa. Let me think about it!
+[2025-01-15 22:07:44] You: parking
+[2025-01-15 22:07:44] Jamie: Parking is available near the east gate. A valid parking permit is required.
+[2025-01-15 22:07:46] You: admissions
+[2025-01-15 22:07:46] Jamie: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 22:07:47] You: scholarship
+[2025-01-15 22:07:47] Jamie: Oops! It seems we've been disconnected. Please try again later.
+[2025-01-15 22:07:48] You: events
+[2025-01-15 22:07:48] Jamie: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 22:14:35] You: admissions
+[2025-01-15 22:14:35] Avery: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 22:14:37] You: scholarship
+[2025-01-15 22:14:37] Avery: Scholarship applications are open until March 15. Good luck!
+[2025-01-15 22:14:38] You: events
+[2025-01-15 22:14:38] Avery: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 22:14:45] You: i am feeling great
+[2025-01-15 22:14:45] Avery: You seem really happy, Tanisha! Keep up the good vibes!
+[2025-01-15 22:18:58] You: what about coffee
+[2025-01-15 22:18:58] Avery: Hmm, I'll need to check on that, Tanisha.
+[2025-01-15 22:19:06] You: events
+[2025-01-15 22:19:06] Avery: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 22:19:09] You: events
+[2025-01-15 22:19:09] Avery: The Spring Fest is on April 10. Don't miss it!
+[2025-01-15 22:19:12] You: parking
+[2025-01-15 22:19:12] Avery: Parking is available near the east gate. A valid parking permit is required.
+[2025-01-15 22:19:21] You: bye
+[2025-01-15 22:19:21] Avery: Thank you for chatting, Tanisha! Have a great day!
+[2025-01-15 22:19:21] Avery: Was my assistance helpful today, Tanisha? Reply with Yes or No.
+[2025-01-15 22:19:54] You: hi
+
+[2025-01-15 23:15:36] You: admissions
+[2025-01-15 23:15:36] Casey: Admissions are open from January 10 to March 31. Apply online.
+[2025-01-15 23:15:41] You: bye
+[2025-01-15 23:15:41] Casey: Thank you for chatting, giaa! Have a great day!
+[2025-01-15 23:15:41] Casey: Was my assistance helpful today, giaa? Reply with Yes or No.
+[2025-01-15 23:15:46] You: no
+[2025-01-15 23:15:46] Casey: I'm sorry I couldn't be more helpful, giaa. I'll strive to do better next time.
+[2025-01-16 10:23:27] You: hi
+[2025-01-16 10:23:27] Avery: Hello, tans! How can I brighten your day?

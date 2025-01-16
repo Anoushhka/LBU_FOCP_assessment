@@ -1,0 +1,22 @@
+{
+    "responses": {
+        "admissions": "Admissions are open from Monday to Friday, {name}. Visit our website for more details.",
+        "coffee": "The campus coffee shop is open from 8 AM to 6 PM, {name}. Don't miss the caramel latte!",
+        "library": "The library is open 24/7 for students, {name}. Remember to bring your ID for access.",
+        "sports": "Our sports center offers yoga, swimming, and gym facilities, {name}. It's open from 6 AM to 10 PM.",
+        "scholarship": "Scholarship applications are open until March 15th, {name}. Good luck!",
+        "hostel": "The campus hostels provide comfortable accommodation. For booking details, visit the hostel office, {name}.",
+        "events": "Our next campus event is the Spring Fest on April 10th, {name}. Don't forget to join the fun!",
+        "parking": "Parking spaces are available for students near the east gate, {name}. You'll need a parking permit.",
+        "transport": "The campus shuttle service runs every 30 minutes from 7 AM to 9 PM, {name}. It's free for all students.",
+        "fees": "Tuition fees for this semester are due by February 28th, {name}. Late payments may incur a penalty.",
+        "new_topic": "This is a new topic response, {name}. Thanks for asking!"
+    },
+    "fallback_responses": [
+        "I'm not sure about that, {name}. Can you ask something else?",
+        "That's an interesting question, {name}. Let me think about it!",
+        "Could you clarify, {name}?",
+        "Hmm, I'll need to check on that, {name}."
+    
+    ]
+}
