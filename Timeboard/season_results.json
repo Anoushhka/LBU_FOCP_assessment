@@ -1,0 +1,50 @@
+{
+    "location": "Monaco Grand Prix",
+    "drivers": [
+        {
+            "number": 33,
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing",
+            "fastest_lap": 1.22,
+            "average_lap": 1.2233333333333334,
+            "laps": [
+                1.22,
+                1.23,
+                1.22
+            ]
+        },
+        {
+            "number": 44,
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "fastest_lap": 1.245,
+            "average_lap": 1.245,
+            "laps": [
+                1.245,
+                1.245
+            ]
+        },
+        {
+            "number": 63,
+            "name": "George Russell",
+            "team": "Mercedes",
+            "fastest_lap": 1.265,
+            "average_lap": 1.2725,
+            "laps": [
+                1.265,
+                1.28
+            ]
+        },
+        {
+            "number": 11,
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing",
+            "fastest_lap": 1.25,
+            "average_lap": 1.25,
+            "laps": [
+                1.25,
+                1.25
+            ]
+        }
+    ]
+}

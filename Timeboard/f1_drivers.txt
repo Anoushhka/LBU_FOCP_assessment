@@ -1,0 +1,4 @@
+VER,Max Verstappen,Red Bull Racing,33
+HAM,Lewis Hamilton,Mercedes,44
+RUS,George Russell,Mercedes,63
+PER,Sergio Perez,Red Bull Racing,11
